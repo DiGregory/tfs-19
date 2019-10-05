@@ -1,1 +1,1 @@
-Tasks from tinkoff fintech (golang course)[https://fintech.tinkoff.ru]
+Tasks from [tinkoff fintech golang course](https://fintech.tinkoff.ru)
